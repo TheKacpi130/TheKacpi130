@@ -1,5 +1,5 @@
 Hi there 👋<br>
-I'm Kacper @thekacpi130 Kacper Łukaszewski in 1998
+I'm Kacper @TheKacpi130 Kacper Łukaszewski in 1998
 
 🌱 Technical school IT specialist and now collegian IT on Wyższa Szkoła Bankowa
 
