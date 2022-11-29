@@ -4,6 +4,7 @@ I'm Kacper @TheKacpi130 Kacper Łukaszewski in 1998
 🌱 Technical school IT specialist and now collegian IT on Wyższa Szkoła Bankowa
 
 👀 Linkedin: www.linkedin.com/in/kacper-lukaszewski/
+<br>
 📫 To reach me: lukaszewski.kacper13@gmail.com
 
 <!---
