@@ -7,7 +7,7 @@ I'm Kacper @TheKacpi130 Kacper Łukaszewski in 1998
 <br>
 📫 To reach me: lukaszewski.kacper13@gmail.com
 <br>
-📰 My website: https://www.fanatykdroniarstwa.pl/
+📰 My CV website: https://www.cv.fanatykdroniarstwa.pl/
 
 <!---
 TheKacpi130/TheKacpi130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
